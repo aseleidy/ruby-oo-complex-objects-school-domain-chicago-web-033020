@@ -29,7 +29,6 @@ class School
       binding.pry
       students.sort
     end 
-    @roster
   end 
     
     
