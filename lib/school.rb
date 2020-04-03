@@ -29,6 +29,4 @@ class School
       grade = students.sort!
     end
   end 
-    
-    
 end 
